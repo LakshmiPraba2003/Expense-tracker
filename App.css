@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.box{
+  background-color: lightblue;
+  border-color: blue;
+  min-height: 50px;
+}
+.cost{
+  background-color: blue;
+}
